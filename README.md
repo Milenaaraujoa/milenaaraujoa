@@ -11,3 +11,7 @@
   
   ##
  
+<div> 
+  <a href="https://www.linkedin.com/in/milenaaraujo1102/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.salesforce.com/trailblazer/rxkexelfndsmigqi3q" target="_blank"><img height="30" width="90" src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg?w=1024&h=576" target="_blank"></a>
+</div>
