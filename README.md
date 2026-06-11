@@ -1,4 +1,4 @@
-## Bem vindos ao meu Github! Sou Milena Andrade, analista de dados!
+## Bem vindos ao meu Github! Sou Milena Andrade, cientista de dados!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mia-pbi" height="30" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg">
